@@ -1,2 +1,2 @@
 console.log("config.js");
-console.log("aktualizacja12");
+console.log("aktualizacja13");
